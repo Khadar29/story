@@ -1,0 +1,86 @@
+body{
+   
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    
+}
+#b{
+    padding-top:50px;
+    text-decoration: none;
+}
+#l{
+    height:200px;
+    width: 350px;
+    background-color: aliceblue;
+    border-radius:20px;
+    padding: 50px;
+    margin:20px;
+}
+#l h4{
+    height:10px;
+    margin-top:0px;
+    font-size:20px;
+   }
+#s{
+    border-radius: 10px;
+    width: 100px;
+    background-color: blueviolet;
+    color: aliceblue;
+    cursor: pointer;
+    height: 35px;
+    margin-left: 120px;
+}
+#s:hover{
+background-color: black;
+}
+#f{
+    background:linear-gradient(pink,purple);
+    width: 500px;
+    height: 500px;
+    margin-left: 550px;
+    border-radius: 50px;
+}
+#h{
+    padding-left:200px;
+    padding-top: 3px;
+    color: rgb(16, 16, 17);
+    font-size: large;
+}
+#or p{
+    padding-left: 200px;
+    font-weight: bolder;
+    width: 100px;
+    margin-bottom: 20px;
+    height: 10px;
+}
+#or{
+    height: 30px;
+    color: white;
+    
+}
+#ig{
+    padding-left: 50px;
+    margin-bottom: 80px;
+    padding-top: 10px;
+}
+#goo{
+    padding-left: 60px;
+    padding-bottom: 60px;
+    height: 70px;
+}
+#for input{
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 2px 1px 1px 1px;
+    height:20px;
+}
+#number{
+    width: 340px;
+}
+#email{
+    width: 340px;
+}
+#password{
+    width: 340px;
+}
